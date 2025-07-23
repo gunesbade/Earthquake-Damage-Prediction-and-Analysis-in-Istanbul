@@ -1,0 +1,1 @@
+# Earthquake-Damage-Prediction-and-Analysis-in-Istanbul
